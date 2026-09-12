@@ -46,4 +46,4 @@ bqplot
 # Other resources
 pandas
 matplotlib
-numpy
+#numpy
