@@ -45,3 +45,4 @@ bqplot
 
 # Other resources
 pandas
+matplotlib
