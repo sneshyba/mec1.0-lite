@@ -43,5 +43,6 @@ ipyleaflet
 plotly>=6,<7
 bqplot
 
-# meclib
-meclib
+# Other resources
+pandas
+pickle
