@@ -45,4 +45,3 @@ bqplot
 
 # Other resources
 pandas
-pickle
