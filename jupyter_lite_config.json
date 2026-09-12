@@ -1,0 +1,15 @@
+{
+  "PyodideLockAddon": {
+    "enabled": true,
+    "specs": [
+      "numpy",
+      "pandas",
+      "matplotlib"
+    ],
+    "prefetch_extra": [
+      "numpy",
+      "pandas",
+      "matplotlib"
+    ]
+  }
+}
